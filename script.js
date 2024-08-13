@@ -1,3 +1,5 @@
+// Третий вариант
+
 //Variables
 let allColours = [];
 // Selectors
